@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    margin-top: 50px;
+}
+.menu:hover {
+    margin-top: 50px;
+}
+#img_header {
+    margin-top: 30px;
+    margin-left: -40px;
+}
+
+#bottomsite{
+margin-top:6%;   
+}
+
+#button1 {
+    margin-top: 30px;
+}
